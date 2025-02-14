@@ -17,6 +17,7 @@
             <th>Angkatan</th>
             <th>Asal</th>
             <th>Alamat</th>
+            <th>test</th>
         </tr>
 
         @foreach ($students as $student)
